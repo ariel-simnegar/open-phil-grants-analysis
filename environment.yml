@@ -1,0 +1,10 @@
+name: open-phil-grants-analysis
+
+channels:
+ - conda-forge
+
+dependencies:
+ - python=3.11
+ - pandas
+ - ipykernel
+ - jinja2
